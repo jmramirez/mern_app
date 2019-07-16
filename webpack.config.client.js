@@ -31,7 +31,7 @@ const config ={
       }
     ]
   },
-  plugings: [
+  plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new webpack.NoEmitOnErrorsPlugin()
   ]
